@@ -1,5 +1,5 @@
 # ![image](https://github.com/user-attachments/assets/b99392cd-bc6f-4385-8880-7ff551e48d42)
-# ![Texto Alternativo](![Reabilitafacil_logo-09](https://github.com/user-attachments/assets/28a42a5e-07bb-422d-a967-f7a5e1eca21f)
+# !(![Reabilitafacil_logo-09](https://github.com/user-attachments/assets/28a42a5e-07bb-422d-a967-f7a5e1eca21f)
 )
 - Realizado a partir dos conhecimentos obtidos na 'Imersão IA _ Alura com Google Gemini 2025' e através das tecnologias Google Colab, Google AI Studio e Google Gemini, este Projeto visa a construção de um ChatBot que gera instruções para realização de Exercícios Fisioterapêuticos.
 
